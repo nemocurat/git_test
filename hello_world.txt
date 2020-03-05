@@ -1,0 +1,1 @@
+This is my first Git project! Isn't it exciting? I will look back at it happily some time later. Cya!
